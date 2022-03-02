@@ -1,0 +1,5 @@
+be\intec\lesJS\demo\controllers\MainController.class
+be\intec\lesJS\demo\models\Post.class
+be\intec\lesJS\demo\controllers\BlogController.class
+be\intec\lesJS\demo\repo\PostRepository.class
+be\intec\lesJS\demo\DemoApplication.class
